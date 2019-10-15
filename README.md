@@ -1,6 +1,6 @@
 
 <ul>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(1).pdf" style="text-decoration:none;">Applied Mycology</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(1).pdf" style="text-decoration:none;">Basic laboratory procedures in clinical bacteriology</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(2).pdf" style="text-decoration:none;">Clinical Mycology</a></b></li>  
   
