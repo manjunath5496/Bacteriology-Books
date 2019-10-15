@@ -1,31 +1,14 @@
-
 <ul>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(1).pdf" style="text-decoration:none;">Basic laboratory procedures in clinical bacteriology</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Bacteriology-Books/blob/master/bst(1).pdf" style="text-decoration:none;">Basic laboratory procedures in clinical bacteriology</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(2).pdf" style="text-decoration:none;">Clinical Mycology</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bacteriology-Books/blob/master/bst(2).pdf" style="text-decoration:none;">Handbook of Bacteriology </a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(3).pdf" style="text-decoration:none;">Developments in Fungal Biology and Applied Mycology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bacteriology-Books/blob/master/bst(3).pdf" style="text-decoration:none;">Lecture Notes: Medical Bacteriology</a></b></li>
                                
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(4).pdf" style="text-decoration:none;">Essentials of Clinical Mycology</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(5).pdf" style="text-decoration:none;"> Food Mycology: A Multifaceted Approach to Fungi and Food </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(6).pdf" style="text-decoration:none;">Fundamentals of Molecular Mycology </a></b></li>
-                <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(7).pdf" style="text-decoration:none;">Fungi in Ecosystem Processes </a></b></li>                                
-         <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(8).pdf" style="text-decoration:none;">Handbook of Industrial Mycology</a></b></li>                                 
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(9).pdf" style="text-decoration:none;">Introduction to Mycology</a></b></li>
-
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(10).pdf" style="text-decoration:none;">Medical Mycology: Cellular and Molecular Techniques</a></b></li> 
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(11).pdf" style="text-decoration:none;">Molecular Markers in Mycology</a></b></li>                          
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(12).pdf" style="text-decoration:none;">Fungal Genetics: Principles and Practice</a></b></li>                                 
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(13).pdf" style="text-decoration:none;">Marine Mycology: The Higher Fungi </a></b></li>
-
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(14).pdf" style="text-decoration:none;">Czech Mycology </a></b></li> 
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(15).pdf" style="text-decoration:none;">Molecular Biology of Fungal DevelopKent</a></b></li>    
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Mycology-Books/blob/master/yco(16).pdf" style="text-decoration:none;">Molecular Biology and its Application to Medical Mycology</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Bacteriology-Books/blob/master/bst(4).pdf" style="text-decoration:none;">Todar's Online Textbook of Bacteriology</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Bacteriology-Books/blob/master/bst(5).pdf" style="text-decoration:none;"> Principles and Practice of Clinical Bacteriology </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Bacteriology-Books/blob/master/bst(6).pdf" style="text-decoration:none;">Handbook of Laboratory Animal Bacteriology </a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Bacteriology-Books/blob/master/bst(7).pdf" style="text-decoration:none;">Bergey's Manual of Systematic Bacteriology </a></b></li>                                
+         
 
 </ul>
